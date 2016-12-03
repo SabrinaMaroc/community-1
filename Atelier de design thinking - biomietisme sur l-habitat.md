@@ -1,4 +1,6 @@
-*   [Atelier de design thinking & biomimétisme sur l'habitat](/BretagneLabTour-Atelier-de-design-thinking-biomimtisme-sur-lhabitat-a5Jy2aHZ0Ev) 
+# Trame et aide à l'organisation d'atelier
+
+[Atelier de design thinking & biomimétisme sur l'habitat](/BretagneLabTour-Atelier-de-design-thinking-biomimtisme-sur-lhabitat-a5Jy2aHZ0Ev) 
 
 Comment loger 9 milliards d'êtres Humains sans abimer la planète.
 
