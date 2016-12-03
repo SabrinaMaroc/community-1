@@ -1,4 +1,5 @@
 # Initiation au biomimétisme
+Online
 
 Réalisée via Framatalk/wearebiomers le 7 novembre par [[#LeBiome](https://hackpad.com/ep/search/?q=%23LeBiome&via=qV2obzxqW64)] [Biomimicry Open Lab](https://www.facebook.com/events/916154521840929/?ref=1&action_history=%5B%7B%22surface%22%3A%22permalink%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D)
 
