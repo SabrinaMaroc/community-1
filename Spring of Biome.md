@@ -2,7 +2,7 @@
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_w22yRlITdiJ_p.266912_1425807995866_Biome soirée.jpg)
 
-Mercredi 11 mars - rdv 19h30 pour présentation publique
+Mercredi 11 mars 2015 - rdv 19h30 pour présentation publique
 
 ## Déroulement de la soirée
 
