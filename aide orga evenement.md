@@ -1,4 +1,4 @@
-# Organisation de l'évènement
+# Aide à l'organisation d'évènement
 
 Basée sur: 
 
