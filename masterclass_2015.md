@@ -4,7 +4,7 @@ Biomimicry Masterclass décembre 2015
 
 by Xavier Coadic - Le Biome
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439387217757_MS BIOME(1).jpeg)
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439387217757_MS BIOME1.jpeg)
 
 ## Plan de séance
 
