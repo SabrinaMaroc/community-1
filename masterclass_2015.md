@@ -1,6 +1,8 @@
 # Biomimétisme: résilience et innovations au service des humains
 
-Biomimicry Masterclass  by Xavier Coadic - Le Biome
+Biomimicry Masterclass décembre 2015
+
+by Xavier Coadic - Le Biome
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HLDA7UM6N48_p.266912_1439387217757_MS BIOME(1).jpeg)
 
