@@ -1,3 +1,9 @@
+---
+tilte: Notes de l' assemblée ouverte
+description: Seconde assemblée gratuite ouverte aux sympathisants du Biome, aux Biomers, aux curieux
+image_url: https://framapic.org/jyFI5AE94Hn6/Iq3xduFws2ri.jpg
+---
+
 # Open Assembly We Are Biomers
 
 25/11/15 Rennes - café Le Mille Potes- 19h00
@@ -79,4 +85,4 @@ Chiffres depuis 1 an:
 *   collaboration avec 24 organisations différentes (asso, PME, Start-up, écoles, fablab, biohackerspace)
 *
 
-80 fraisiers distribués ;) c'est notre habitude lors des apéro
+80 fraisiers distribués ;) c'est notre habitude lors des apéros
