@@ -1,8 +1,14 @@
+---
+title: Agriculture Online Open discussion
+description: voici les premiers pas vers une discussion collective ouverte enagée le 17/08/15
+image_url: https://framapic.org/RbosKnZFxfxt/VO4LlBq5cG2r.jpg
+---
+
 # Agriculture Online Open discussion
 
 _Suite à la proposition dans le groupe facebook  "Biomimicry Open Lab" , voici les premiers pas vers une discussion  collective ouverte._
 
-_ Pourquoi online?_
+_ Pourquoi online ?_
 
 _ Car nous sommes dispersés de Bruxelles à Marseille en passant par Paris, Rennes, Saint Brieuc ou plus loin encore. _
 
