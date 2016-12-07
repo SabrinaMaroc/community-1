@@ -1,3 +1,10 @@
+---
+title: Formation online hangout : Outils de collaboration
+descrption: Notes sur les formations ouvertes aux sympathisans
+iamge_url: https://framapic.org/ls6vp4Klj3N7/qArg9z1TpH8z.jpg
+---
+
+
 # Formation Hangout Outils de collaboration
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_f8KlCbmFumY_p.266912_1447148701352_12208751_1099346773409867_1884745201545523687_n.jpg)
