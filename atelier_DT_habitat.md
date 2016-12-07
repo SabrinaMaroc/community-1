@@ -1,3 +1,9 @@
+---
+title: comment loger 9Mds d'êtres humains sans abimer la planète ?
+description: trame et aide à l'organisation d'atelier
+image_url: https://framapic.org/2XSwtpGD6E5W/xIqklyavxeZp.jpg
+---
+
 # Trame et aide à l'organisation d'atelier
 
 [Atelier de design thinking & biomimétisme sur l'habitat](/BretagneLabTour-Atelier-de-design-thinking-biomimtisme-sur-lhabitat-a5Jy2aHZ0Ev) 
