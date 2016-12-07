@@ -1,5 +1,5 @@
 ---
-title: Présentation publiquedu Biome à Rennes
+title: Présentation publique du Biome à Rennes
 description: Bar camp du 11 mars 2015 auto oragnisé
 image_url: https://framapic.org/ZHFEHJLCNJ5Q/1IFcCFxST8zP.jpg
 ---
