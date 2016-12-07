@@ -31,7 +31,7 @@ Réseau (ouvert, décentralisé) amorcé à l'occasion d'une rencontre à La Pai
 **Long terme**
 
 *   Aider les projets de création de biomimicry lab comme **[Yvnain ](https://hackpad.com/ep/profile/A3zx8701PWG)Berthiot**
-*   Comparer les modèles de labs (matériel, CM, projets, gouvernance, etc.)
+*   Comparer les modèles de lab (matériel, CM, projets, gouvernance, etc.)
 *   Faire un '[Paris Lab Tour](https://storify.com/nicolasloubet/1er-parislabtour-un-balade-dans-le-paris-des-labs)' (Saclay, CRI, La Paillasse, SenseCube, ENSCI...)
 
 *   Conduite d'ateliers communs ou croisés => **EduCamp**
