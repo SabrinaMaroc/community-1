@@ -1,6 +1,6 @@
 ---
 title: initiation au biomitétisme
-descritpion: en ligne le 7 novembre 2016, France et Canada
+description: réalisée en ligne le 7 novembre 2016, France et Canada
 image_url: https://framapic.org/EHnwzNvvSmv9/9HlXD7crjgd9.jpg
 ---
 
