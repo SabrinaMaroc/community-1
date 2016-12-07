@@ -1,7 +1,7 @@
 ---
 title: Réseau des labs ouverts de Biomimétisme
 description: à l'intiative du Biome, Cellabz et la Myne à Paris février 2015 avec CEEBIOS, la paillasse, Enzymes & Co...
-image_url: https://framapic.org/gRHP9Pki1YCi/O9owszTnnrRX.jpg
+image_url: https://framapic.org/P5XhsUJ7v6E0/vycIeRX5uMvO.jpg
 ---
 
 # Réseau des labs de biomimétisme
