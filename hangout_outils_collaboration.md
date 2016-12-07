@@ -1,6 +1,6 @@
 ---
 title: Formation online hangout : Outils de collaboration
-descrption: Notes sur les formations ouvertes aux sympathisans
+description: Notes sur les formations ouvertes aux sympathisans
 iamge_url: https://framapic.org/ls6vp4Klj3N7/qArg9z1TpH8z.jpg
 ---
 
