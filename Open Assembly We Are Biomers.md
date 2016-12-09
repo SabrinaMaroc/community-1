@@ -1,5 +1,5 @@
 ---
-tilte: Notes de l' assemblée ouverte
+title: Notes de l'assemblée ouverte n°2/2015
 description: Seconde assemblée gratuite ouverte aux sympathisants du Biome, aux Biomers, aux curieux
 image_url: https://framapic.org/jyFI5AE94Hn6/Iq3xduFws2ri.jpg
 ---
