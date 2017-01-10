@@ -7,7 +7,7 @@ image_url: https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg
 
 # Biomimicry master class 2016
 
-*   Notes communes par les participants de la master class de biomimétisme organisée par le Biome hackLab au 10 janvier 2016 à Rennes au Mille potes, Bd de la Liberté.
+* Notes communes par les participants de la master class de biomimétisme organisée par le Biome hackLab au 10 janvier 2016 à Rennes au Mille potes, Bd de la Liberté.
 
 **<u>Connexion</u>** au pad de notes collaboratives : [bit.ly/biomimMC](https://bit.ly/biomimMC) 
 
@@ -17,7 +17,7 @@ image_url: https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg
 
 Démarrage de l'exercice : créer la structure la plus haute possible avec 10 pattes+ficelle+1 feuille+5 bouts de scotchs en équipe de 3 sans se connaître:
 
-*   2 parti-pris légèrement différents par 2 équipes
+* 2 parti-pris légèrement différents par 2 équipes
 
 1- base triangulaire fixe avec 3 sections de pâtes+tipi avec 3 montants assemblés au sommet+1 pâte en dernière section+fixation de la feuille au sommet
 
