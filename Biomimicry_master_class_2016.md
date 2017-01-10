@@ -4,6 +4,7 @@ description: notes collaboratives par les participants à Rennes en décembre 20
 image_url: https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg
 ---
 
+
 # Biomimicry master class 2016
 
 *   Notes communes par les participants de la master class de biomimétisme organisée par le Biome hackLab au 10 janvier 2016 à Rennes au Mille potes, Bd de la Liberté.
