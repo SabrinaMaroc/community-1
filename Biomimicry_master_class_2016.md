@@ -93,7 +93,7 @@ Le biomimétisme est régi par le principe de congruence (différent des systèm
 
 OSCE 2015 : voir [Open Source Circular Economy Days 2015](https://lebiome.github.io/#LeBiome/oscedays/blob/master/oscedays_2015.md) 
 
-Exemples de biomatériau inspiré des herbiers de Posidonie pour recoloniser les fonds marins
+Exemples de biomatériaux inspiréx des herbiers de Posidonie pour recoloniser les fonds marins : [Meadow & Energy](https://lebiome.github.io/#LeBiome/ocean_Bio_recolonisation/tree/master/posidonia)
 
 Vidéo sur le cuir végétal (et même bactérien) :
 
