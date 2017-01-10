@@ -1,7 +1,7 @@
 ---
 title: Biomimetisme Master class 2015
 description: notes de l'intervention sur la résilience et l'innovation
-image_url: https://framapic.org/CqbPekNUJsbU/oc4yzGfR5j7J.jpg
+image_url: https://framapic.org/HKP11uuPPpMh/8QkFIsC8RyUb.jpg
 ---
 
 # Biomimétisme: résilience et innovations au service des humains
