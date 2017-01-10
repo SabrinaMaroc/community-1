@@ -1,7 +1,7 @@
 ---
-title: Biomimetisme Master class 2016
+title: Biomimétisme Master class 2016
 description: notes collaboratives par les participants à Rennes en décembre 2016
-image_url: https://framapic.org/HKP11uuPPpMh/8QkFIsC8RyUb.jpg
+image_url: https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg
 ---
 
 # Biomimicry master class 2016
