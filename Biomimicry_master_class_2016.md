@@ -229,9 +229,7 @@ Image tirée de R. Page, 2016 : doi: 10.3897/rio.2.e8767
 ![](https://framapic.org/3AZK2yIVWWAv/1tNkfLcq2BIi.jpg)
 3.  structuration des infos via une standardisation avec le [Darwin Core](http://www.canadensys.net/publication/darwin-core?lang=fr) et voir aussi [](http://rs.tdwg.org/dwc/)http://rs.tdwg.org/dwc/
 4.  Mise en ligne sur une plateforme principale en open  access qui permet d'avoir une prévisualisation de ses besoins dans le  cadre des études d'impacts/ études dans le cadre de la biodiversité avec  des outils adaptés suivant la nature de la demande- cela permet d'avoir  un "contre-point"  et une vue plus large et éclairée des éléments et  sources d'informations  (voir www.gbif.org) + permet de modéliser des  scénarii d'actions locales très rapidement / aide à la prise de  décisions/actions terrains... 
-
 ![](https://framapic.org/masVF5aGeTBS/KNoKtlJtCv3m.jpg)
-
 ![](https://framapic.org/SmlW2nxG1eq7/pn3t7GOyOJoj.jpg)
 5.  Appui de nombreux acteurs dans le cadre de  "Data minding"  et plateformes plus nationales/régionales +  applications spécifiques de reconnaissance et référencement  d'informations et de données ... 
 ![](https://framapic.org/VpYyZlbGkqA7/wu3Thu4bx8hJ.jpg)
