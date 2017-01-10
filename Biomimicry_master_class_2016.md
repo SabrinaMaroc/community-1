@@ -29,7 +29,7 @@ Exercice détourné depuis :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H0_yKBitO8M" frameborder="0" allowfullscreen></iframe>
 
---------------
+
 **Présents :**
 
 les participant se présentent après le brise glace
@@ -50,7 +50,6 @@ les participant se présentent après le brise glace
 
 *   Xavier Coadic, cofondateur du Biome, Biomimicry HackLab, initiateur de la master et animateur de la séance aidé par Virgine Blanville. 
 
-----------
 
 **<u>exo 2 </u>**: 
 refaire le 1er exercice avec les mêmes éléments de base et voir si le fait de connaître le cursus de chacun influence la dynamique de travail en groupe et modifie l'influence de chacun au sein du groupe...? Voir si l'optimisation du parti-pris initial amène à une modification d'approche/de vision ?
