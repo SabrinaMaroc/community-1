@@ -175,7 +175,7 @@ Petite histoire de "l'open source"... n'est pas incompatible avec l'entrepreneur
 
 Selon Pouhiou de framasoft: "la licence choisie correspond au degré d'agression juridique que l'on est prêt à accepter"
 
-Dans l'opne source, l'idée n'a pas de valeur en soi, c'est le développement, l'effet du contexte, de l'environnement qui compte.
+Dans l'open source, l'idée n'a pas de valeur en soi, c'est le développement, l'effet du contexte, de l'environnement qui compte.
 
 ## Keynotes de soirée
 
