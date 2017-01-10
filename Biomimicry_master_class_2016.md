@@ -148,8 +148,8 @@ Microscopie Open source :
 
 + en allemand : [](http://www.linux-community.de/Community/Fragen/Mikroskop-Biolux-NG-unter-Linux)http://www.linux-community.de/Community/Fragen/Mikroskop-Biolux-NG-unter-Linux
 
-  ```  #        List of USB ID's
-    #
+```
+List of USB ID's
     #        Maintained by Stephen J. Gowdy <linux.usb.ids@gmail.com>
     #        If you have any new entries, please submit them via
     #                [](http://www.linux-usb.org/usb-ids.html)http://www.linux-usb.org/usb-ids.html
@@ -171,8 +171,7 @@ Microscopie Open source :
            3188  ARK3188 UVC Webcam
           3299  Webcam Carrefour
           3366  Bresser Biolux NV
-          
-          ```
+```
 
 Petite histoire de "l'open source"... n'est pas incompatible avec l'entrepreneuriat et l'innovation bien au contraire... (_A creuser également! pour les apprenants_)
 
