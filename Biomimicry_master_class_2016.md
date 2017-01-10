@@ -12,6 +12,8 @@ image_url: https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg
 
 **Brise glace avant présentation :**
 
+**14H**
+
 Démarrage de l'exercice : créer la structure la plus haute possible avec 10 pattes+ficelle+1 feuille+5 bouts de scotchs en équipe de 3 sans se connaître:
 
 *   2 parti-pris légèrement différents par 2 équipes
@@ -26,6 +28,7 @@ Exercice détourné depuis :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H0_yKBitO8M" frameborder="0" allowfullscreen></iframe>
 
+--------------
 **Présents :**
 
 les participant se présentent après le brise glace
@@ -46,7 +49,10 @@ les participant se présentent après le brise glace
 
 *   Xavier Coadic, cofondateur du Biome, Biomimicry HackLab, initiateur de la master et animateur de la séance aidé par Virgine Blanville. 
 
-**<u>exo 2 </u>**: refaire le 1er exercice avec les mêmes éléments de base et voir si le fait de connaître le cursus de chacun influence la dynamique de travail en groupe et modifie l'influence de chacun au sein du groupe...? Voir si l'optimisation du parti-pris initial amène à une modification d'approche/de vision ?
+----------
+
+**<u>exo 2 </u>**: 
+refaire le 1er exercice avec les mêmes éléments de base et voir si le fait de connaître le cursus de chacun influence la dynamique de travail en groupe et modifie l'influence de chacun au sein du groupe...? Voir si l'optimisation du parti-pris initial amène à une modification d'approche/de vision ?
 
 ![](https://framapic.org/5AQfnJ8H6Aaf/PelaWvYY6Kua.jpg)
 
@@ -156,10 +162,10 @@ Microscopie Open source :
     # Date:    2016-12-05 20:34:05
     #
     # Vendors, devices and interfaces. Please keep sorted.
-   # Syntax:
-   # vendor  vendor_name
-   #        device  device_name                                <-- single tab
-   #                interface  interface_name                <-- two tabs
+    # Syntax:
+    # vendor  vendor_name
+    #        device  device_name                                <-- single tab
+    #                interface  interface_name                <-- two tabs
    18ec  Arkmicro Technologies Inc.
            3118  USB to IrDA adapter [ARK3116T]
            3188  ARK3188 UVC Webcam
