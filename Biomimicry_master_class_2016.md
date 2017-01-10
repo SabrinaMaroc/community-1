@@ -152,20 +152,18 @@ Microscopie Open source :
 List of USB ID's
  # Maintained by Stephen J. Gowdy <linux.usb.ids@gmail.com>
  # If you have any new entries, please submit them via
- # [](http://www.linux-usb.org/usb-ids.html)http://www.linux-usb.org/usb-ids.html
- # or send entries as patches (diff -u old new) in the
- # body of your email (a bot will attempt to deal with it).
- # The latest version can be obtained from
- # [](http://www.linux-usb.org/usb.ids)http://www.linux-usb.org/usb.ids
+ [](http://www.linux-usb.org/usb-ids.html)http://www.linux-usb.org/usb-ids.html
+ # or send entries as patches (diff -u old new) in the body of your email (a bot will attempt to deal with it).
+ # The latest version can be obtained from [](http://www.linux-usb.org/usb.ids)http://www.linux-usb.org/usb.ids
 
  # Version: 2016.12.05
- # Date:    2016-12-05 20:34:05
+ # Date: 2016-12-05 20:34:05
    
  # Vendors, devices and interfaces. Please keep sorted.
  # Syntax:
  # vendor  vendor_name
- # device  device_name                    <-- single tab
- # interface  interface_name              <-- two tabs
+ # device  device_name        <-- single tab
+ # interface  interface_name  <-- two tabs
  18ec  Arkmicro Technologies Inc.
  3118  USB to IrDA adapter [ARK3116T]
  3188  ARK3188 UVC Webcam
