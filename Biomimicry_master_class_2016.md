@@ -233,8 +233,7 @@ Image tirée de R. Page, 2016 : doi: 10.3897/rio.2.e8767
 ![](https://framapic.org/masVF5aGeTBS/KNoKtlJtCv3m.jpg)
 
 ![](https://framapic.org/SmlW2nxG1eq7/pn3t7GOyOJoj.jpg)
-5. Appui de nombreux acteurs dans le cadre de  "Data minding"  et plateformes plus nationales/régionales +  applications spécifiques de reconnaissance et référencement  d'informations et de données ... 
-
+5.  Appui de nombreux acteurs dans le cadre de  "Data minding"  et plateformes plus nationales/régionales +  applications spécifiques de reconnaissance et référencement  d'informations et de données ... 
 ![](https://framapic.org/VpYyZlbGkqA7/wu3Thu4bx8hJ.jpg)
 
 NB : L'open access avec DataCite + ORCID permet de conserver l'origine de l’information. L'identifiant ORCID permet la valorisation en tant que personne contributrice.
