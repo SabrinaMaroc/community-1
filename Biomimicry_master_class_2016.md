@@ -8,9 +8,7 @@ image_url: https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg
 
 *   Notes communes par les participants de la master class de biomimétisme organisée par le Biome hackLab au 10 janvier 2016 à Rennes au Mille potes, Bd de la Liberté.
 
-**<u>Connexion</u>** au pad de notes collaboratives : 
-
-[bit.ly/biomimMC](https://bit.ly/biomimMC) 
+**<u>Connexion</u>** au pad de notes collaboratives : [bit.ly/biomimMC](https://bit.ly/biomimMC) 
 
 **Brise glace avant présentation :**
 
@@ -22,11 +20,11 @@ Démarrage de l'exercice : créer la structure la plus haute possible avec 10 pa
 
 2-base triangulaire sans structure fixe afin d'utiliser toutes les longueurs de pâtes pour optimiser la hauteur totale-fixation de la base par la ficelle+ 1 hauban pour compenser la souplesse de la structure - mais qui ne la compense pas et donc ça marche pas!!! mea culpa :)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.266912_1482311127522_bio mc 2016-6.jpg)
+![](https://framapic.org/HDJSTgmQY9w3/xmahJ7e0wyUg.jpg)
 
 Exercice détourné depuis : 
 
-*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0_yKBitO8M" frameborder="0" allowfullscreen></iframe>
 
 **Présents :**
 
@@ -50,7 +48,7 @@ les participant se présentent après le brise glace
 
 **<u>exo 2 </u>**: refaire le 1er exercice avec les mêmes éléments de base et voir si le fait de connaître le cursus de chacun influence la dynamique de travail en groupe et modifie l'influence de chacun au sein du groupe...? Voir si l'optimisation du parti-pris initial amène à une modification d'approche/de vision ?
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.266912_1482310883231_bio mc 2016-2.jpg)
+![](https://framapic.org/5AQfnJ8H6Aaf/PelaWvYY6Kua.jpg)
 
 <u>Principes à valoriser :</u>
 
@@ -93,9 +91,7 @@ Exemples de biomatériau inspiré des herbiers de Posidonie pour recoloniser les
 
 Vidéo sur le cuir végétal (et même bactérien) :
 
-*
-
-[](https://www.youtube.com/watch?v=vXrAxGx8dTY)https://www.youtube.com/watch?v=vXrAxGx8dTY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXrAxGx8dTY" frameborder="0" allowfullscreen></iframe>
 
 Par Sabrina et Charleyne : [voir aussi la documentation et fiche de science sur github](https://github.com/OpenBioFabrics/scoby) 
 
@@ -118,7 +114,7 @@ Possibilité d'utiliser Arduino pour surveiller/contrôler la culture.
 
 *    Voir la ["recette"  sur le guithub "OPEN BIO FABRICS"  ](https://github.com/OpenBioFabrics/scoby) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.266912_1482310767819_bio mc 2016.jpeg)
+![](https://framapic.org/5fZcDrBj5BiH/ayh2qoEFpge7.jpg)
 
 **<u>Aide microscope :</u>**
 
@@ -146,35 +142,37 @@ Microscopie Open source :
 
 + en allemand : [](http://www.linux-community.de/Community/Fragen/Mikroskop-Biolux-NG-unter-Linux)http://www.linux-community.de/Community/Fragen/Mikroskop-Biolux-NG-unter-Linux
 
-*   #        List of USB ID's
-*   #
-*   #        Maintained by Stephen J. Gowdy <linux.usb.ids@gmail.com>
-*   #        If you have any new entries, please submit them via
-*   #                [](http://www.linux-usb.org/usb-ids.html)http://www.linux-usb.org/usb-ids.html
-*   #        or send entries as patches (diff -u old new) in the
-*   #        body of your email (a bot will attempt to deal with it).
-*   #        The latest version can be obtained from
-*   #                [](http://www.linux-usb.org/usb.ids)http://www.linux-usb.org/usb.ids
-*   #
-*   # Version: 2016.12.05
-*   # Date:    2016-12-05 20:34:05
-*   #
-**   # Vendors, devices and interfaces. Please keep sorted.
-**   # Syntax:
-*   # vendor  vendor_name
-*   #        device  device_name                                <-- single tab
-*   #                interface  interface_name                <-- two tabs
-*   18ec  Arkmicro Technologies Inc.
-*           3118  USB to IrDA adapter [ARK3116T]
-*           3188  ARK3188 UVC Webcam
-*           3299  Webcam Carrefour
-*           3366  Bresser Biolux NV
+  ```  #        List of USB ID's
+    #
+    #        Maintained by Stephen J. Gowdy <linux.usb.ids@gmail.com>
+    #        If you have any new entries, please submit them via
+    #                [](http://www.linux-usb.org/usb-ids.html)http://www.linux-usb.org/usb-ids.html
+    #        or send entries as patches (diff -u old new) in the
+    #        body of your email (a bot will attempt to deal with it).
+    #        The latest version can be obtained from
+    #                [](http://www.linux-usb.org/usb.ids)http://www.linux-usb.org/usb.ids
+    #
+    # Version: 2016.12.05
+    # Date:    2016-12-05 20:34:05
+    #
+    # Vendors, devices and interfaces. Please keep sorted.
+   # Syntax:
+   # vendor  vendor_name
+   #        device  device_name                                <-- single tab
+   #                interface  interface_name                <-- two tabs
+   18ec  Arkmicro Technologies Inc.
+           3118  USB to IrDA adapter [ARK3116T]
+           3188  ARK3188 UVC Webcam
+          3299  Webcam Carrefour
+          3366  Bresser Biolux NV
+          
+          ```
 
-Petite histoire de "l'open source"... n'est pas incompatible avec l'entrepreneuriat et l'innovation bien au contraire...A creuser également!
+Petite histoire de "l'open source"... n'est pas incompatible avec l'entrepreneuriat et l'innovation bien au contraire... (_A creuser également! pour les apprenants_)
 
-Selon Pouhiou de framasoft, la licence choisie correspond au degré d'agression juridique choisi. 
+Selon Pouhiou de framasoft: "la licence choisie correspond au degré d'agression juridique que l'on est prêt à accepter"
 
-L'idée n'a pas de valeur en soi, c'est le développement, l'effet du contexte, de l'environnement qui compte.
+Dans l'opne source, l'idée n'a pas de valeur en soi, c'est le développement, l'effet du contexte, de l'environnement qui compte.
 
 ## Keynotes de soirée
 
@@ -191,7 +189,7 @@ différents profils :
 *   le médiateur / le régulateur
 *   l'agent d'accueil / le journaliste / facilitateur
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.266912_1482310935011_bio mc 2016-3.jpg)
+![](https://framapic.org/19f3iy28gsof/A9AfataWko7i.jpg)
 
 Analyse de différentes sources d'informations pour contribuer à l'enrichissement du contenu.
 
@@ -200,7 +198,7 @@ Analyse de différentes sources d'informations pour contribuer à l'enrichisseme
 *   1 pic de contribution pour les profils de 25-30 ans et 60-65 ans suivant les disponibilités
 *   structuration d'une base de données centralisée Wikidata pour une mise à jour plus rapide et facilitée sur l'ensemble des articles.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.266912_1482311070934_bio mc 2016-5.jpg)
+![](https://framapic.org/8JzmaW9ykL9b/5Vq8St3gLqk3.jpg)
 
 Organisation de rencontres des membres de la communauté le jeudi soir au Milles Potes à Rennes afin de faire vivre le réseau et les échanges. Différentes dynamiques suivant les villes. 
 
@@ -216,7 +214,7 @@ Lien entre le biomimétisme et l'open access. (informatique de la biodiversité)
 
 Lier les différentes informations relatives à la biodiversité afin de connecter et optimiser les flux d'informations. (spécimens/élément/situation géographique/taxonomie/ historique/...)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.677850_1481618362125_image.png)
+![](https://framapic.org/qREluflBNRC5/2S1plkWWQr7F.jpg)
 
 Image tirée de R. Page, 2016 : doi: 10.3897/rio.2.e8767
 
@@ -227,9 +225,9 @@ Image tirée de R. Page, 2016 : doi: 10.3897/rio.2.e8767
 3.  structuration des infos via une standardisation avec le [Darwin Core](http://www.canadensys.net/publication/darwin-core?lang=fr)  [](http://rs.tdwg.org/dwc/)http://rs.tdwg.org/dwc/
 4.  Mise en ligne sur une plateforme principale en open  access qui permet d'avoir une prévisualisation de ses besoins dans le  cadre des études d'impacts/ études dans le cadre de la biodiversité avec  des outils adaptés suivant la nature de la demande- cela permet d'avoir  un "contre-point"  et une vue plus large et éclairée des éléments et  sources d'informations  (voir www.gbif.org) + permet de modéliser des  scénarii d'actions locales très rapidement / aide à la prise de  décisions/actions terrains... 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.266912_1482311017440_bio mc 2016-4.jpg)
+![](https://framapic.org/masVF5aGeTBS/KNoKtlJtCv3m.jpg)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.677850_1481623490433_image.png)
+![](https://framapic.org/SmlW2nxG1eq7/pn3t7GOyOJoj.jpg)
 
 1.  Appui de nombreux acteurs dans le cadre de  "Data minding"  et plateformes plus nationales/régionales +  applications spécifiques de reconnaissance et référencement  d'informations et de données ... ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.677850_1481623570561_image.png)
 
@@ -241,7 +239,7 @@ D'où l'intérêt de l'informatique de la biodiversité :)
 
 <u>En résumé l'informatique de la biodiversité c'est:</u>
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CE4UDzw2T1F_p.677850_1481622096689_image.png)
+![](https://framapic.org/hl0fYZLscA9D/2YilTDoNkkbY.jpg)
 
 <u>Pour aller plus loin sur cette keynote</u>
 
