@@ -129,7 +129,7 @@ Le nature est performante et innovante car elle optimise 3 flux : Matière, éne
 
 Voir [OSCE Days by le Biome en 2015 pour schema](https://oscedays.org/rennes-2015/) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_8Ae8WWsIori_p.266912_1478602751574_DOC-osce-82.jpeg)
+![](https://framapic.org/g44nwtd3R5Rz/HgtvYBOIsEsd)
 
 Olivier : dans quel sens se passe le process, est-ce l'observation qui déclenche l'idée ? (curiosité/inventaire) ou besoin de résoudre un défi
 
@@ -176,43 +176,27 @@ Xavier (n'aime pas le terme mais la nouvelle révolution industriel), avec de la
 
 «S'inspirer de la nature pour assurer le futur»
 
-*   La   coquille   d'un   mollusque   pourrait   inspirer   la   fabrication   décrans
+*   La   coquille   d'un   mollusque   pourrait   inspirer   la   fabrication   d'écrans
 
 transparents : 
 
-En découvrant les secrets optiques de l'ornementation d'un gastéropode,l'helcion pellucide (Patella pellucida), des scientifiques ont ouvert la voie à une approche
-
-inédite et prometteuse pour la conception d'écrans d'affichage transparents. Une nouvelle
-
-preuve des possibilités offertes par le biomimétisme.
+En découvrant les secrets optiques de l'ornementation d'un gastéropode,l'helcion pellucide (Patella pellucida), des scientifiques ont ouvert la voie à une approche inédite et prometteuse pour la conception d'écrans d'affichage transparents. Une nouvelle preuve des possibilités offertes par le biomimétisme.
 
 [](http://www.futura-sciences.com/magazines/high-tech/infos/actu/d/image-3d-coquille-mollusque-pourrait-inspirer-fabrication-ecrans-transparents-57359/#xtor=EPR-17-)http://www.futura-sciences.com/magazines/high-tech/infos/actu/d/image-3d-coquille-mollusque-pourrait-inspirer-fabrication-ecrans-transparents-57359/#xtor=EPR-17-[QUOTIDIENNE]20150304[ACTU-La-coquille-d-un-mollusque-pourrait-inspirer-la-fabrication-d--ecrans-transparents] 
 
 *    papillons bioniques volent de façon autonome
 
-Ces papillons
-
-bioniques développés par Festo sont autonomes et ultralégers. Ils fonctionnent grâce à
-
-un astucieux système de caméras en réseau. Au cours de cette vidéo, on peut les voir
-
-voler en groupe avec une aisance étonnante.
+Ces papillons bioniques développés par Festo sont autonomes et ultralégers. Ils fonctionnent grâce àun astucieux système de caméras en réseau. Au cours de cette vidéo, on peut les voir voler en groupe avec une aisance étonnante.
 
 [](http://www.futura-sciences.com/videos/d/impressionnants-papillons-bioniques-volent-facon-autonome-1862/#xtor=EPR-17-)http://www.futura-sciences.com/videos/d/impressionnants-papillons-bioniques-volent-facon-autonome-1862/#xtor=EPR-17-[QUOTIDIENNE]-20150406-[ACTU-D-impressionnants-papillons-bioniques-volent-de-facon-autonome] 
 
 *   Biomimétisme, l'intelligence du vivant
 
-: le biomimétisme c'est «limitation du vivant pour des applications humaines». A cette large mais réductrice définition, Gauthier Chapelle, et le mouvement «Biomimicry» dans lequel il s'inscrit, ajout:
+le biomimétisme c'est «l'imitation du vivant pour des applications humaines». A cette large mais réductrice définition, Gauthier Chapelle, et le mouvement «Biomimicry» dans lequel il s'inscrit.
 
-»l'innovation pour la durabilité inspirée par la nature ». A travers quelques exemples d'innovations etde projets, dont la potentialité révolutionnaire va croissante au fur et à mesure que l'on
+Ajout: l'innovation pour la durabilité inspirée par la nature ». A travers quelques exemples d'innovations etde projets, dont la potentialité révolutionnaire va croissante au fur et à mesure que l'ondépasse les questions de forme et de matière pour s'élever au niveau des écosystèmes,
 
-dépasse les questions de forme et de matière pour sélever au niveau des écosystèmes,
-
-Gauthier Chapelle défend l'idée selon laquelle le vivant, et ses quelques 3,8 milliards
-
-d'années d'expérience de l'évolution, peut nous fournir quelques clés pour assurer notre
-
-pérennité...
+Gauthier Chapelle défend l'idée selon laquelle le vivant, et ses quelques 3,8 milliards d'années d'expérience de l'évolution, peut nous fournir quelques clés pour assurer notre pérennité...
 
 *   Le biomimétisme, une clé pour mieux innover écolo: 
 
@@ -278,29 +262,15 @@ Du   grec   bios,   vie,   et   mimésis,
 
 imitation,   le   biomimétisme   observe   et   s'inspire   de   la   nature pour   produire   des
 
-applications respectueuses de l'environnement. Cette approche globale est prometteuse
-
-de   découvertes   :   technologies   non   polluantes,   matériaux   recyclables,   techniques
-
-économes en énergie voire passives... Le biomimétisme est une histoire de passionnés
-
-qui rassemble naturalistes, ingénieurs, architectes, biologistes... C'est aussi une histoire
-
-de culture : si dans la culture occidentale, nous nous sommes éloignés de la nature et la
-
-redécouvrons   aujourd'hui,   certains   peuples,   comme   les   amérindiens,   sen   inspirent
-
-depuis toujours.
+applications respectueuses de l'environnement. Cette approche globale est prometteuse de découvertes: technologies non   polluantes,   matériaux   recyclables,   techniques économes en énergie voire passives... Le biomimétisme est une histoire de passionnés qui rassemble naturalistes, ingénieurs, architectes, biologistes... C'est aussi une histoire de culture : si dans la culture occidentale, nous nous sommes éloignés de la nature et la redécouvrons   aujourd'hui,   certains   peuples,   comme   les   amérindiens,   s'en   inspirent depuis toujours.
 
 [](http://www.cite-sciences.fr/fr/ressources/bibliotheque-en-ligne/dossiers-)http://www.cite-sciences.fr/fr/ressources/bibliotheque-en-ligne/dossiers-
 
 *   Ask Nature 
 
-recense   toutes   les   stratégies   naturelles   susceptibles   dintéresser   les
+recense toutes les stratégies naturelles susceptiblesd'intéresser les chercheurs ou les industriels. A ce jour, la base de données contient plus de 1 400
 
-chercheurs ou les industriels. A ce jour, la base de données contient plus de 1 400
-
-exemples répartis en huit catégories : traitement linformation ;
+exemples répartis en huit catégories : traitement l'information ;
 
 stockage ou distribution les ressources ;fabrication ;transformation ou dégradation de la matière...
 
@@ -308,93 +278,40 @@ stockage ou distribution les ressources ;fabrication ;transformation ou dégrada
 
 *   Biomimicry europa
 
-: Association crée en 2006 et co-fondée par Janine Benyus, a pour
-
-but de promouvoir le biomimétisme en France. Elle réalise des conférences, expositions,
-
-et   formations.   Elle   rassemble   des   biologistes,   physiciens,   chimistes   et   ingénieurs,
-
-architectes.
+Association crée en 2006 et co-fondée par Janine Benyus, a pourbut de promouvoir le biomimétisme en France. Elle réalise des conférences, expositions et formations.   Elle   rassemble   des   biologistes,   physiciens,   chimistes   et   ingénieurs, architectes.
 
 [](http://www.biomimicry.eu/)http://www.biomimicry.eu/
 
 *   Institut Inspire
 
-Centre de réflexion qui mutualise et diffuse des connaissances sur
-
-l'écologie   et   le   monde   de   l'économie.   Il   contribue   à   la   sensibilisation   des   acteurs
-
-économiques   sur   les   innovations   dans   le   secteur   du   développement   durable en
-
-organisant des conférences et colloques
+Centre de réflexion qui mutualise et diffuse des connaissances sur l'écologie   et   le   monde   de   l'économie.   Il   contribue   à   la   sensibilisation   des   acteurs économiques   sur   les   innovations   dans   le   secteur   du   développement   durable en organisant des conférences et colloques
 
 [](http://www.inspire-institut.org/category/biomimetisme)http://www.inspire-institut.org/category/biomimetisme
 
 *   Introduction au biomimétisme, "L'innovation inspirée par la nature"
 
-:Etopia est un centre d'animation et de recherche en écologie politique qui alimente les débats sur
-
-l'écologie. Propose un document sur le biomimétisme en y expliquant les principes et applications futures.
+_Etopia est un centre d'animation et de recherche en écologie politique qui alimente les débats sur l'écologie. Propose un document sur le biomimétisme en y expliquant les principes et applications futures._
 
 [](http://www.etopia.be/IMG/pdf/biomimetisme.pdf)http://www.etopia.be/IMG/pdf/biomimetisme.pdf
 
-Actes du colloque «Bio-inspirés" - Décembre 2012  MNHN
+Actes du colloque «Bio-inspirés" - Décembre 2012 - MNHN
 
-s'est tenu le 10 décembre 2012. Ce rassemblement de près de deux cents participants
-
-(chercheurs et doctorants, industriels, représentants dassociations et élus) invitait à
-
-réfléchir sur les «
-
-réponses
-
-» possibles de la démarche bio-inspirée aux multiples défis du
-
-développement durable. 
+s'est tenu le 10 décembre 2012. Ce rassemblement de près de deux cents participants (chercheurs et doctorants, industriels, représentants d'associations et élus) invitait à réfléchir sur les «réponses» possibles de la démarche bio-inspirée aux multiples défis du développement durable. 
 
 [](http://www.developpement-durable.gouv.fr/IMG/pdf/130725-Actes_biomimetisme-complet.pdf)http://www.developpement-durable.gouv.fr/IMG/pdf/130725-Actes_biomimetisme-complet.pdf
 
 *   Biomimétisme inspirés des plantes et des insectes: de la science des matériaux aux micro-senseurs (vidéo)
 
-[](http://www.dailymotion.com/video/x12k9ko_colloque-recherches-bio-inspirees-)http://www.dailymotion.com/video/x12k9ko_colloque-recherches-bio-inspirees-
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x12k9ko" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x12k9ko_colloque-recherches-bio-inspirees-biomimetisme-inspire-des-plantes-et-des-insectes-3-8_news" target="_blank">Colloque recherches bio-inspir&eacute;es...</a> <i>par <a href="http://www.dailymotion.com/FranceEcologieEnergie" target="_blank">FranceEcologieEnergie</a></i>
 
-biomimetisme-inspire-des-plantes-et-des-insectes-3-8_news
 
-Vers des matériaux bio-inspirés 
-
-(vidéo)
-
-: 
-
-cours de Clément Sanchez du Collège de
-
-France
+Vers des matériaux bio-inspirés, cours de Clément Sanchez du Collège de France
 
 [](http://www.college-de-france.fr/site/clement-sanchez/course-2013-11-20-16h00.htm)http://www.college-de-france.fr/site/clement-sanchez/course-2013-11-20-16h00.htm
 
-Lintelligence   incarnée,   une   approche   bio-inspirée   en   robotique      Frédéric
+L'intelligence   incarnée,   une   approche   bio-inspirée   en   robotique - Frédéric Boyer, Mines Nantes:
 
-Boyer, Mines Nantes
-
-:
-
-Sinspirer de la nature, certainement la démarche scientifique la
-
-plus ancienne, est une approche qui a encore beaucoup à nous révéler. À Mines Nantes,
-
-la   robotique   bio-inspirée   est   une   thématique   de   recherche   qui   fait   appel   à   cette
-
-démarche. Elle vise non pas le simple mimétisme mais la compréhension des astuces que
-
-la nature trouve pour résoudre ses problèmes. Le chercheur Frédéric Boyer nourrit ses
-
-travaux de cette observation minutieuse. Avec son équipe, il développe divers robots qui
-
-ne nécessitent pas le recours au calcul informatique pour acquérir leur autonomie, et qui
-
-explorent leur environnement grâce aux particularités de leur corps et à des sens
-
-nouveaux comme le sens électrique.
+S' inspirer de la nature, certainement la démarche scientifique la plus ancienne, est une approche qui a encore beaucoup à nous révéler. À Mines Nantes, la   robotique   bio-inspirée   est   une   thématique   de   recherche   qui   fait   appel   à   cette démarche. Elle vise non pas le simple mimétisme mais la compréhension des astuces que la nature trouve pour résoudre ses problèmes. Le chercheur Frédéric Boyer nourrit ses travaux de cette observation minutieuse. Avec son équipe, il développe divers robots qui ne nécessitent pas le recours au calcul informatique pour acquérir leur autonomie, et qui explorent leur environnement grâce aux particularités de leur corps et à des sens nouveaux comme le sens électrique.
 
 [](http://www.mines-telecom.fr/wp-content/uploads/2015/04/PDF_BD_F_Boyer_La-bio-)http://www.mines-telecom.fr/wp-content/uploads/2015/04/PDF_BD_F_Boyer_La-bio-
 
@@ -426,23 +343,10 @@ association des principaux groupes de recherche en bionique allemands
 
 [](http://zqjournal.org/)http://zqjournal.org/
 
-*   Étude de la contribution du biomimétisme à la transition vers une économie verte en France
+*   Étude de la contribution du biomimétisme à la transition vers une économie verte en France états des lieux, potentiels, leviers
 
- états des lieux, potentiels, leviers
-
-lobjectif de la présente étude,
-
-réalisée par Hermine Durand de septembre 2011 à janvier 2012 en relation avec trois
-
-entités du CGDD (DDD, DRI, SEEIDD), est de faire un état des lieux de la recherche et
-
-de l'innovation françaises en matière de biomimétisme et den évaluer le potentiel dans la
-
-perspective d'une économie verte et résiliente. A partir de recherches bibliographiques et
-
-de rencontres avec de nombreux acteurs, elle brosse un portrait du biomimétisme en
-
-France et dans le monde
+l'objectif de la présente étude, réalisée par Hermine Durand de septembre 2011 à janvier 2012 en relation avec trois entités du CGDD (DDD, DRI, SEEIDD), est de faire un état des lieux de la recherche et de l'innovation françaises en matière de biomimétisme et d'en évaluer le potentiel dans la perspective d'une économie verte et résiliente. A partir de recherches bibliographiques et
+de rencontres avec de nombreux acteurs, elle brosse un portrait du biomimétisme en France et dans le monde
 
 [](http://www.developpement-durable.gouv.fr/IMG/pdf/ED72.pdf)http://www.developpement-durable.gouv.fr/IMG/pdf/ED72.pdf
 
@@ -452,19 +356,9 @@ France et dans le monde
 
 *   S'inspirer   des   systèmes   vivants   pour   innover   :   la   France   accélère
 
-Le biomimétisme n'est pas une nouvelle science mais une approche qui consiste à s'inspirer
+Le biomimétisme n'est pas une nouvelle science mais une approche qui consiste à s'inspirer de la nature pour développer des réponses innovantes aux problématiques industrielles, urbaines et environnementales. En France, une cinquantaine d'entreprises s'est déjà engagée dans cette démarche et un centre européen dédié vient de voir le jour dans l'Oise. 
 
-de la nature pour développer des réponses innovantes aux problématiques industrielles,
-
-urbaines et environnementales. En France, une cinquantaine d'entreprises s'est déjà
-
-engagée dans cette démarche et un centre européen dédié vient de voir le jour dans
-
-l'Oise. Objectif
-
-: donner à l'Hexagone les moyens d'exceller dans l'innovation en mode
-
-durable. 
+Objectif: donner à l'Hexagone les moyens d'exceller dans l'innovation en mode durable. 
 
 [](http://lesclesdedemain.lemonde.fr/environnement/s-inspirer-des-systemes-vivants-pour-)http://lesclesdedemain.lemonde.fr/environnement/s-inspirer-des-systemes-vivants-pour-
 
@@ -587,35 +481,27 @@ Poulpe fiction : quand l'animal inspire l'innovation / Agnes Guillot, Jean-Arcad
 
 *   Jankeliowitch, Anne
 
-Toutes les idees geniales qu'on a piquees a\00 la nature / Anne Jankeliowitch 
-
-[illustre par] Roland Garrigue. 
+Toutes les idees geniales qu'on a piquees a\00 la nature / Anne Jankeliowitch [illustre par] Roland Garrigue. 
 
 - Paris : Delachaux et Niestle, 2013. 
 
 *   Nachtigall, Werner
 
-La nature reinventee
+La nature reinventée
 
-  / Werner Nachtigall ; trad. de l'allemand ; Allain Bougrain-
-
-Dubourg presente la bionique avec la collab. de Biruta Kresling. 
+  / Werner Nachtigall ; trad. de l'allemand ; Allain Bougrain-Dubourg presente la bionique avec la collab. de Biruta Kresling. 
 
 - Paris : Plon, 1987. 
 
 *   Raymond, Michel
 
-Pourquoi je n'ai pas invente la roue : et autres surprises de la selection
-
-naturelle / Michel Raymond. 
+Pourquoi je n'ai pas invente la roue : et autres surprises de la selection naturelle / Michel Raymond. 
 
 - Paris : O. Jacob, impr. 2012. 
 
 *   Les robots en quete d'humanite
 
- / [Red. en chef Loic Mangin] ; [avant-propos Bill 
-
-Gates] ; Philippe Mathieu, Sebastien Picault, Jean-Christophe Routier... [et al.]. 
+ / [Red. en chef Loic Mangin] ; [avant-propos Bill Gates] ; Philippe Mathieu, Sebastien Picault, Jean-Christophe Routier... [et al.]. 
 
 - Paris : Pour la science, DL 2015. 
 
@@ -630,8 +516,6 @@ Gates] ; Philippe Mathieu, Sebastien Picault, Jean-Christophe Routier... [et al.
 / Steve Jenkins ; traduit de l'anglais par Christine Mignot. 
 
 - Paris : Circonflexe, 2014. 
-
-- 
 
 Ce livre s'intéresse à la couleur dans le monde animal et aux manières ingénieuses dont elle est utilisée en particulier  son importance pour la survie des espèces. 
 
@@ -724,9 +608,7 @@ Hachette : Muséum national d'histoire naturelle, 1987.
 
 Le Temps de la découverte
 
-Quand   la   science   imite   la   Nature   permettant   à   l'Homme   de perfectionner   ses inventions, augmenter ses capacités ou compenser ses handicaps. Cet ouvrage en donne
-
-quelques exemples: conception d'ailes pour «machines volantes », matériau copiant la soie d'araignée, robots inspirés d'animaux, etc. Une bibliographie et un index complètent ce documentaire.
+Quand   la   science   imite   la   Nature   permettant   à   l'Homme   de perfectionner   ses inventions, augmenter ses capacités ou compenser ses handicaps. Cet ouvrage en donne quelques exemples: conception d'ailes pour «machines volantes », matériau copiant la soie d'araignée, robots inspirés d'animaux, etc. Une bibliographie et un index complètent ce documentaire.
 
 *   Toutes les idées géniales qu'on a piquées à la nature  
 
@@ -736,15 +618,7 @@ quelques exemples: conception d'ailes pour «machines volantes », matériau cop
 
 Paris : Delachaux et Niestlé, 2013. 
 
-«Depuis l'observation des atomes jusqu'aux écosystèmes, la nature inspire scientifiques,
-
-industriels, ingénieurs, architectes et artistes. Ce calendrier illustre le biomimétisme
-
-comme source d'inspiration des inventeurs, de la graine de pissenlit au parapente, des
-
-plantes   carnivores   au   papier   tue-mouches   ou   de   l'aération   des   termitières   à   la
-
-climatisation.»
+«Depuis l'observation des atomes jusqu'aux écosystèmes, la nature inspire scientifiques, industriels, ingénieurs, architectes et artistes. Ce calendrier illustre le biomimétisme comme source d'inspiration des inventeurs, de la graine de pissenlit au parapente, des plantes   carnivores   au   papier   tue-mouches   ou   de   l'aération   des   termitières   à   la climatisation.»
 
 **MIT Edu**
 
