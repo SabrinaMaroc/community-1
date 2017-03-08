@@ -8,7 +8,7 @@ image_url: https://framapic.org/EHnwzNvvSmv9/9HlXD7crjgd9.jpg
 
 Réalisée via Framatalk/wearebiomers le 7 novembre par [[#LeBiome](https://hackpad.com/ep/search/?q=%23LeBiome&via=qV2obzxqW64)] [Biomimicry Open Lab](https://www.facebook.com/events/916154521840929/?ref=1&action_history=%5B%7B%22surface%22%3A%22permalink%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D)
 
- ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_8Ae8WWsIori_p.266912_1478599568886_bandeau Biome.jpg)
+![](https://framapic.org/Wd4wLRMHj0PU/dOE9OveQQQTb)
 
 ## Présents 
 
@@ -476,23 +476,17 @@ innover-la-france-accelere_a-55-4897.html
 
 [](http://www.liberation.fr/economie/2011/12/23/le-vivant-une-inspiration-geniale_783691)http://www.liberation.fr/economie/2011/12/23/le-vivant-une-inspiration-geniale_783691
 
-*   Le biomimétisme : réorienter l'économie en imitant la nature ?
 
- (vidéo)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QWFbbjLqGrs" frameborder="0" allowfullscreen></iframe>
 
 *   Biomimétisme: quand la nature inspire l'ingénieur et le gestionnaire 
 
-(vidéo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EViIRXvpak4?list=PLFC90AD64CD9DCA81" frameborder="0" allowfullscreen></iframe>
 
-[](https://www.youtube.com/watch?v=EViIRXvpak4&playnext=1&list=PLFC90AD64CD9DCA81)[https://www.youtube.com/watch?v=EViIRXvpak4&playnext=1&list=PLFC90AD64CD9DCA81](https://www.youtube.com/watch?v=EViIRXvpak4&playnext=1&list=PLFC90AD64CD9DCA81)
-
-*   Biomimétisme : science d'avenir ? (vidéo)
+*   Biomimétisme : science d'avenir ? 
 
 La nature, source d'inspirations ? Avec quels réels succès et quels défis pour demain ? Avec Hervé Arribart, physicien, membre de l'Académie des technologies, et Agnès Guillot, roboticienne au CNRS.
 
-[](http://www.universcience.tv/video-biomimetisme-science-d-avenir-2664.html)http://www.universcience.tv/video-biomimetisme-science-d-avenir-2664.html
+[Voir la vieo](http://www.universcience.tv/video-biomimetisme-science-d-avenir-2664.html)
 
 *   L'art de la supercherie : mimétisme et camouflage
 
