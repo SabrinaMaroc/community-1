@@ -49,7 +49,7 @@ Xavier : univers pointu/geek à l'origine, rapport et place de l'humain/nature m
 
 <u>Notes</u>  
 
-Début du XX siècle : Les principes d**hybridation des univers culturels et des pratiques** par lexemple [Otto Herbert Schmi](https://fr.wikipedia.org/wiki/Otto_Schmitt)[t](https://fr.wikipedia.org/wiki/Otto_Schmitt)[t](https://fr.wikipedia.org/wiki/Otto_Schmitt)**. **Il a inventé le terme [biomimétisme](https://fr.wikipedia.org/wiki/Biomim%C3%A9tisme)  pour décrire un mode dexploration du Vivant en tant que source de  solutions efficientes et moins coûteuses à de nombreux problèmes.
+Début du XX siècle : Les principes d'**hybridation des univers culturels et des pratiques** par l'exemple [Otto Herbert Schmi](https://fr.wikipedia.org/wiki/Otto_Schmitt)[t](https://fr.wikipedia.org/wiki/Otto_Schmitt)[t](https://fr.wikipedia.org/wiki/Otto_Schmitt)**. **Il a inventé le terme [biomimétisme](https://fr.wikipedia.org/wiki/Biomim%C3%A9tisme)  pour décrire un mode d'exploration du Vivant en tant que source de  solutions efficientes et moins coûteuses à de nombreux problèmes.
 
 Puis :
 
@@ -57,9 +57,9 @@ La **question « profonde » de ce que la nature est en définitive **que traite
 
 Il y avait également les trois principes de base de biomimétisme, tels que définis par [Janine Benyus.](https://fr.wikipedia.org/wiki/Janine_Benyus)
 
-*   **La nature comme modèle** est le principe poétique de biomimétisme, car il nous raconte comment les choses doivent être «mise au monde.
-*   **La nature comme mesure**  est le principe éthique du biomimétisme, car il nous indique que la  nature impose des limites ou des normes éthiques sur ce qu'il est  possible pour nous d'accomplir.
-*   **La nature comme mentor**  est le principe épistémologique de biomimétisme, car il argue que la  nature est la source de la vérité, de la sagesse, de la liberté de  l'erreur.
+*   **La nature comme modèle** est le principe poétique de biomimétisme, car il nous raconte comment les choses doivent être "mise au monde".
+*   **La nature comme mesure**  est le principe éthique du biomimétisme, car il nous indique que la  nature impose des limites ou des normes éthiques sur ce qu'il est  possible pour nous d'accomplir.
+*   **La nature comme mentor**  est le principe épistémologique de biomimétisme, car il argue que la  nature est la source de la vérité, de la sagesse, de la liberté de  l'erreur.
 
 Sabrina : **pourquoi la France a t-elle du retard dans le domaine du biomimétisme?** 
 
@@ -69,7 +69,9 @@ Sabrina : **financièrement parlant, combien pèse le biomimétisme?**
 
 Xavier ressort une étude d'il y a trois ans qui avait mesuré cela (et cherche le chiffre : 100 milliards de dollars sur la planète). De gros industriels ont fortement investis avec un intérêt financier : à court terme des économies.
 
-Une  étude réalisée par le _Fermian Business and Economic Institute_ de  luniversité de Point Loma de San Diego en 2010, estime limpact  financier global du biomimétisme à 100 milliards de dollars en 2025 avec un approche uniquement ingénierie et non pas avec la prise on compte du capital naturel dans l'économie mondiale (voir le _millenium ecosystem assesment_).
+Une  étude réalisée par le _Fermian Business and Economic Institute_ de  l'université de Point Loma de San Diego en 2010, estime l'impact  financier global du biomimétisme à 100 milliards de dollars en 2025 avec un approche uniquement ingénierie et non pas avec la prise on compte du capital naturel dans l'économie mondiale (voir le _millenium ecosystem assesment_).
+
+* [Report indicates that biomimicry may be major economic driver for San Diego](http://www.pointloma.edu/news/report-indicates-biomimicry-may-be-major-economic-driver-san-diego)
 
 Au-delà de l'économique, il y a le point (et le poids) de vue philosophique : coût des services gratuits rendus, de la pollution, du réchauffement climatique, etc.
 
@@ -93,9 +95,9 @@ Xavier : on en parle, notamment on parle beaucoup de big data (sans forcément s
 
 *   Le **biomimétisme** désigne un processus d'[innovation](https://fr.wikipedia.org/wiki/Innovation) et une [ingénierie](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie). Il s'inspire des formes, matières, propriétés, processus et fonctions du [vivant](https://fr.wikipedia.org/wiki/Vivant). _Source Wikipédia_
 
-*   Sinspirer du vivant pour résoudre des défis sociétaux, voici la définition qui semble faire concession auprès des différentes parties prenantes ayant travaillé sur la norme [ISO 18458 et ISO 18459 ](http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1952) 
+*   S'inspirer du vivant pour résoudre des défis sociétaux, voici la définition qui semble faire concession auprès des différentes parties prenantes ayant travaillé sur la norme [ISO 18458 et ISO 18459 ](http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1952) 
 
-En 2015, ces travaux de définition commune ne faisaient que commencer ; pourtant le biomimétisme est un univers dexploration qui ne date pas daujourdhui.
+En 2015, ces travaux de définition commune ne faisaient que commencer ; pourtant le biomimétisme est un univers dexploration qui ne date pas d'aujourd'hui.
 
 Sabrina : **existe t'il différente définition de biomimétisme selon pays ?**
 
@@ -168,11 +170,11 @@ Xavier (n'aime pas le terme mais la nouvelle révolution industriel), avec de la
 *   [#Biomimetisme perçu par les réseaux sociaux](https://storify.com/XavierCoadic/biomimetisme-percu-par-les-reseaux-sociaux) 
 *   [#Biomimicry perceived by people on social networks](https://storify.com/XavierCoadic/biomimicry)
 
-*   Centre européen dexcellence en biomimétisme -Ceebios
+*   Centre européen d'excellence en biomimétisme -Ceebios
 
 [](http://ceebios.com/)http://ceebios.com/
 
-«Sinspirer de la nature pour assurer le futur»
+«S'inspirer de la nature pour assurer le futur»
 
 *   La   coquille   d'un   mollusque   pourrait   inspirer   la   fabrication   décrans
 
@@ -180,7 +182,7 @@ transparents :
 
 En découvrant les secrets optiques de l'ornementation d'un gastéropode,l'helcion pellucide (Patella pellucida), des scientifiques ont ouvert la voie à une approche
 
-inédite et prometteuse pour la conception décrans daffichage transparents. Une nouvelle
+inédite et prometteuse pour la conception d'écrans d'affichage transparents. Une nouvelle
 
 preuve des possibilités offertes par le biomimétisme.
 
@@ -228,21 +230,21 @@ des grandes entreprises et des PME.
 
 Le biomimétisme, qui est apparu dans les années 90,
 
-consiste à sinspirer des formes, des fonctions, des systèmes que lon trouve dans la
+consiste à s'inspirer des formes, des fonctions, des systèmes que l'on trouve dans la
 
-nature afin de développer des innovations soutenables dun point de vue écologique. Ce
+nature afin de développer des innovations soutenables d'un point de vue écologique. Ce
 
-concept dinnovation, bien que très avancé dun point de vue théorique et largement
+concept d'innovation, bien que très avancé d'un point de vue théorique et largement
 
 utilisé dans les centres de recherches publiques, commence seulement à se répandre
 
 dans les entreprises privées. Cette thèse se propose de réfléchir à une méthodologie,
 
-basée   sur   les   concepts   du   biomimétisme,   permettant   de   faciliter   lemploi   du
+basée   sur   les   concepts   du   biomimétisme,   permettant   de   faciliter   l'emploi   du
 
 biomimétisme au sein des entreprises afin de catalyser des innovations et de privilégier
 
-celles dont limpact sur lenvironnement sera faible. 
+celles dont l'impact sur l'environnement sera faible. 
 
 [](http://www.google.fr/url?)http://www.google.fr/url?
 
@@ -258,7 +260,7 @@ en sinspirant des ailes transparentes du Greta Oto, un papillon surprenant.
 
 [](http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-)http://www.futura-sciences.com/magazines/matiere/infos/actu/d/physique-
 
-*   Bionic Bird, loiseau-robot français est prêt à senvoler
+*   Bionic Bird, l'oiseau-robot français est prêt à senvoler
 
  un prototype d'oiseau robotisé qui pèse moins de dix grammes et se pilote du bout desdoigts  
 
@@ -274,9 +276,9 @@ financement sur la plateforme Indiegogo.
 
 Du   grec   bios,   vie,   et   mimésis,
 
-imitation,   le   biomimétisme   observe   et   sinspire   de   la   nature pour   produire   des
+imitation,   le   biomimétisme   observe   et   s'inspire   de   la   nature pour   produire   des
 
-applications respectueuses de lenvironnement. Cette approche globale est prometteuse
+applications respectueuses de l'environnement. Cette approche globale est prometteuse
 
 de   découvertes   :   technologies   non   polluantes,   matériaux   recyclables,   techniques
 
@@ -286,7 +288,7 @@ qui rassemble naturalistes, ingénieurs, architectes, biologistes... C'est aussi
 
 de culture : si dans la culture occidentale, nous nous sommes éloignés de la nature et la
 
-redécouvrons   aujourdhui,   certains   peuples,   comme   les   amérindiens,   sen   inspirent
+redécouvrons   aujourd'hui,   certains   peuples,   comme   les   amérindiens,   sen   inspirent
 
 depuis toujours.
 
@@ -328,11 +330,11 @@ organisant des conférences et colloques
 
 [](http://www.inspire-institut.org/category/biomimetisme)http://www.inspire-institut.org/category/biomimetisme
 
-*   Introduction au biomimétisme, Linnovation inspirée par la nature
+*   Introduction au biomimétisme, "L'innovation inspirée par la nature"
 
-:Etopia est un centre danimation et de recherche en écologie politique qui alimente les débats sur
+:Etopia est un centre d'animation et de recherche en écologie politique qui alimente les débats sur
 
-lécologie. Propose un document sur le biomimétisme en y expliquant les principes et applications futures.
+l'écologie. Propose un document sur le biomimétisme en y expliquant les principes et applications futures.
 
 [](http://www.etopia.be/IMG/pdf/biomimetisme.pdf)http://www.etopia.be/IMG/pdf/biomimetisme.pdf
 
@@ -434,9 +436,9 @@ réalisée par Hermine Durand de septembre 2011 à janvier 2012 en relation avec
 
 entités du CGDD (DDD, DRI, SEEIDD), est de faire un état des lieux de la recherche et
 
-de linnovation françaises en matière de biomimétisme et den évaluer le potentiel dans la
+de l'innovation françaises en matière de biomimétisme et den évaluer le potentiel dans la
 
-perspective dune économie verte et résiliente. A partir de recherches bibliographiques et
+perspective d'une économie verte et résiliente. A partir de recherches bibliographiques et
 
 de rencontres avec de nombreux acteurs, elle brosse un portrait du biomimétisme en
 
@@ -446,11 +448,7 @@ France et dans le monde
 
 *   Le biomimétisme: réorienter l'économie en imitant la nature ?
 
- (vidéo)
-
-*
-
-[](https://www.youtube.com/watch?v=QWFbbjLqGrs)https://www.youtube.com/watch?v=QWFbbjLqGrs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWFbbjLqGrs" frameborder="0" allowfullscreen></iframe>
 
 *   S'inspirer   des   systèmes   vivants   pour   innover   :   la   France   accélère
 
@@ -474,7 +472,7 @@ innover-la-france-accelere_a-55-4897.html
 
 *   Le vivant, une inspiration géniale
 
-: Lobservation scientifique des processus naturels est une source intarissable de progrès.
+: L'observation scientifique des processus naturels est une source intarissable de progrès.
 
 [](http://www.liberation.fr/economie/2011/12/23/le-vivant-une-inspiration-geniale_783691)http://www.liberation.fr/economie/2011/12/23/le-vivant-une-inspiration-geniale_783691
 
@@ -482,9 +480,7 @@ innover-la-france-accelere_a-55-4897.html
 
  (vidéo)
 
-*
-
-[](https://www.youtube.com/watch?v=QWFbbjLqGrs)https://www.youtube.com/watch?v=QWFbbjLqGrs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWFbbjLqGrs" frameborder="0" allowfullscreen></iframe>
 
 *   Biomimétisme: quand la nature inspire l'ingénieur et le gestionnaire 
 
@@ -508,13 +504,7 @@ animale; le camouflage se réfère à une espèce animale ressemblant à un obje
 
 *   La pieuvre mimétique : imitations comportementales et camouflage:
 
-Découverte en 1998, la Pieuvre mimétique (Thaumoctopus Mimicus) est un céphalopode tout à fait
-
-particulier : capable comme nombre de ses consSurs, de modifier sa couleur et sa
-
-texture,   elle   est   également   capable   d'imiter   de   nombreuses   espèces,   et   le   fait
-
-effectivement avec une singulière perspicacité
+Découverte en 1998, la Pieuvre mimétique (Thaumoctopus Mimicus) est un céphalopode tout à fait particulier : capable comme nombre de ses consSurs, de modifier sa couleur et sa texture, elle est également capable d'imiter de nombreuses espèces, et le fait effectivement avec une singulière perspicacité
 
 [](http://nature-extreme.psyblogs.net/2010/09/la-pieuvre-mimetique-imitations.html)http://nature-extreme.psyblogs.net/2010/09/la-pieuvre-mimetique-imitations.html
 <undefined><li>**Bibliographie**</li></undefined>
@@ -626,8 +616,6 @@ Pourquoi je n'ai pas invente la roue : et autres surprises de la selection
 naturelle / Michel Raymond. 
 
 - Paris : O. Jacob, impr. 2012. 
-
-- 
 
 *   Les robots en quete d'humanite
 
@@ -812,6 +800,6 @@ avec l'aide de Sabrina Maroc, Oliver Norvez, Nicolas Belett Vigneron
 
 est mis à disposition selon les termes de la [licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Fondé(e) sur une Suvre à [HackPad Initiation au Biomimétisme](/Untitled-8Ae8WWsIori) 
+Fondé(e) sur une oeuvre à [HackPad Initiation au Biomimétisme](/Untitled-8Ae8WWsIori) 
 
 Les autorisations au-delà du champ de cette licence peuvent être obtenues à [](http://lebiomefablab.wixsite.com/lebiome)[http://lebiomefablab.wixsite.com/lebiome](http://lebiomefablab.wixsite.com/lebiome).
