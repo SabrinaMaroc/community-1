@@ -8,20 +8,20 @@ cinquième assemblée gratuite ouverte aux sympathisants du Biome, aux Biomers, 
 
 _Depuis 3.8 milliards d’années la nature évolue et  innove, sans déchets et en perpétuelle adaptation. Nous nous en  inspirons pour révolutionner le monde économique en produisant ensemble,  dans un fablab, les solutions de demain…_
 
-_ Le Biome rassemble et  mélange grâce à l’open source, open science et licence libre les  artistes, PME, chercheurs, bricoleurs, entrepreneurs, collectivités  territoriales, ingénieurs, étudiants, chercheurs  d'emplois... dans l’esprit du Do It Together (DIT). Nous produisons des matières, des systèmes, de formes co-construites et accessibles au plus grand nombre._
+_Le Biome rassemble et  mélange grâce à l’open source, open science et licence libre les  artistes, PME, chercheurs, bricoleurs, entrepreneurs, collectivités  territoriales, ingénieurs, étudiants, chercheurs  d'emplois... dans l’esprit du Do It Together (DIT). Nous produisons des matières, des systèmes, de formes co-construites et accessibles au plus grand nombre._
 
  Voir les documentation du Biome : 
 
 *    [lebiome.github.io](https://lebiome.github.io/) 
 *   [Collection Hackpad](/ep/group/w69y2zwP9It) 
 
-** **
 
-** Objectif **
+
+**Objectif **
 
  fournir à chacun l'occasion de s'exprimer et d'être présent pour participer à des processus important de décision puis de passage à l'action
 
-** Lieu**
+**Lieu**
 
  - Jeudi 23 février 19h au Mille Potes à Rennes
 
@@ -29,7 +29,7 @@ _ Le Biome rassemble et  mélange grâce à l’open source, open science et lic
 
  **Présents**
 
-*    [Virginie Blanville](https://hackpad.com/ep/profile/stFafzZhNFj) 
+*   [Virginie Blanville](https://hackpad.com/ep/profile/stFafzZhNFj) 
 *   [Théo Vital](https://hackpad.com/ep/profile/vwyukChV7Ld) 
 *   [Xavier COADIC](https://hackpad.com/ep/profile/mG5YIQbhX4t) 
 *   Wikipédiens 
@@ -45,11 +45,10 @@ Line vers le online talk : [](https://framatalk.org/wearebiomers)https://framata
 *   [Filipe Vilas-Boas](/ep/profile/AgYuWIq0rgP), Artiste numérique, Paris.
 *    [Camille Ladreyt](/ep/profile/mHs4X3aTiJH), Etudiante en école d'ingénieur (l'UTC) et cofondatrice de Mycélium, Paris
 
-** **
 
- Questions des participants :  
+### Questions des participants :  
 
-*    Camille, qu'est le Biome ?
+*   Camille, qu'est le Biome ?
 *   Filipe,quels sont les protos en cours ?
 
 Les ressources que vous avez demandées :  
@@ -57,7 +56,7 @@ Les ressources que vous avez demandées :
 *   [Observer l'ADN dans sa cuisine](https://medium.com/we-are-biomers/fais-le-toi-m%C3%AAme-fais-le-avec-dautres-5cf5ee4867a0#.cl0t7hro7) 
 *   Les ouvres qui produisent de l'énergie, voir Emmanuel Laurent [Mulhouse et Lyon] et voir [Forkons lnergie](https://hackpad.com/Ll4iF2Xsz9G)
 
-** Thèmes à aborder : **
+**Thèmes à aborder:**
 
 *   Ok pour aider à construire une page pour orienter les nouveaux arrivants et curieux.
 
@@ -68,7 +67,7 @@ Les ressources que vous avez demandées :
 
 *   Objectifs : 
 
-        *   Avoir une gouvernance par consensus claire
+    *   Avoir une gouvernance par consensus claire
     *   Un outil de décision / participation / contribution que chacun peut utiliser en autonomie individuelle ou collective
     *   Un néo Biomer ou Biomer expérimenté doit pourvoir où il se situe, comment faire ce qu'il veut, comment aider, comment faire cela depuis n'importe endroit / ville / pays où il réside
 
@@ -80,7 +79,7 @@ Les ressources que vous avez demandées :
 
         *   Une méthode à définir et une pédagogie à faire lors d'une prochaine séance de travail
 
-** Questions à distance**
+**Questions à distance**
 
  Bonjour,
 
