@@ -18,6 +18,8 @@ Réalisée via Framatalk/wearebiomers le 7 novembre par [[#LeBiome](https://hack
 *   Xavier, co fondateur du Biome, nomade, actuellement entre Rennes et Les Monts d'Arée
 *   Viviane, de Rennes
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQ68y_725Dw" frameborder="0" allowfullscreen></iframe>
+
 ## Sommaire
 
 *   Questions des participants autour du biomimétisme
