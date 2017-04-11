@@ -18,7 +18,7 @@ De 16 à 59 ans, les Biomers se retrouvent presque partout en France, aux Etats-
 Les prototypes et réalisations sont libres et documentées, les ressources informationnelles sur supports collaboratifs sont partagées. Les Biomers organisent ensemble et avec d'autres communautés des espaces et temps collaboratifs open source.
 
 Les Biomers se rencontrent en présentiel à chaque fois qu'un biomer inspiré crée une opportunité : Camp, master class, workshop, résidence de prototypage, causerie, apéro, festival, cours dans les écoles.
-Ils échangent aussi en ligne via le [groupe Facebook](https://www.facebook.com/groups/BioMakers/) ou via GitHub pour la documentation de projet, le code ou par Slack pour échanger et enfin [Trello](https://trello.com/lebiomelab) pour partager les tâches de la communautés.
+Ils échangent aussi en ligne via le [groupe Facebook](https://www.facebook.com/groups/BioMakers/) ou via GitHub pour la documentation de projet, le code ou par Slack pour échanger et enfin [Trello](https://trello.com/b/wwHlwIzI) pour partager les tâches de la communautés.
 Nous formons de nouveaux Biomers ainsi que des personnes d'autres communautés de pratiques collaboratives open source.
 
 Nous collaborons avec des écoles, universités, associations, entreprises petites et grandes, FabLabs, hackerspaces, tiers-lieux, collectivités publiques ou encore start-ups.
@@ -36,3 +36,17 @@ Nous pouvons installer ensemble un [HackLab](https://medium.com/we-are-biomers/l
 Intéressez-vous à notre fonctionnement en réciprocité renforcée puis à notre gouvernance basée sur le design de consensus.
 
 Par la pratique et le partage, par votre posture apprenante et contributrice vous deviendrez autonome que vous ayez votre propre projet ou pas.
+
+# Utiliser les outils de la communautés 
+
+Pour apprendre, pour contribuer, pour partager, pour collaborer
+
+## Groupe Facebook
+
+## Slack
+
+## Trello
+
+## Hacpad
+
+## Github
