@@ -1,6 +1,6 @@
 ---
 title: Etre Biomer
-description: Pourquoi, pour qui, où et comment ? On tente de répondre à vos interrogations
+description: Pourquoi, pour qui, où et comment ? On tente de répondre à tes interrogations
 image_url:
 ---
 
@@ -8,38 +8,44 @@ image_url:
 
 Les Biomers, inspirés par la Nature, pratiquent sciences, arts, philosophie, numérique, design, jardinage, communs, innovation...
 
-Être biomer ne nécessite pas de diplome ni ne délivre de dîplome. Devenir Biomer passe par la pratique, le Faire et le partage. C'est apprendre et/ou transmmettre par la pratique. C'est contribuer aux ressources informationnelles ou matérielles de la communauté. 
+Être Biomer ne nécessite ni ne délivre de dîplome. Devenir Biomer passe par la pratique et le partage. C'est apprendre et transmettre lors de rencontres réelles ou online. C'est aussi contribuer aux ressources informationnelles ou matérielles de la communauté. 
 
 > La personne qui fait est légitime, [Michel Lallement](https://fr.wikipedia.org/wiki/Michel_Lallement)
 
 De 16 à 59 ans, les Biomers se retrouvent presque partout en France, aux Etats-Unis, En Angleterre, à Madagascar (Voir une partie de la communauté sur [la carte libre](http://umap.openstreetmap.fr/fr/map/we-are-biomers-map_52928#3/48.11/-1.58))
 
-Être biomers c'est faire du Biomimétisme open source. [Voir notre manifeste de communauté](https://lebiome.github.io/#LeBiome/manifesto) 
-Les prototypes et réalisations sont libres et documentées, les ressources informationnelles sur supports collaboratifs sont partagées. Les Biomers organisent ensemble et avec d'autres communautés des espaces et temps collaboratifs open source.
+[Le manifeste de communauté](https://lebiome.github.io/#LeBiome/manifesto) 
 
-Les Biomers se rencontrent en présentiel à chaque fois qu'un biomer inspiré crée une opportunité : Camp, master class, workshop, résidence de prototypage, causerie, apéro, festival, cours dans les écoles.
-Ils échangent aussi en ligne via le [groupe Facebook](https://www.facebook.com/groups/BioMakers/) ou via GitHub pour la documentation de projet, le code ou par Slack pour échanger et enfin [Trello](https://trello.com/b/wwHlwIzI) pour partager les tâches de la communautés.
-Nous formons de nouveaux Biomers ainsi que des personnes d'autres communautés de pratiques collaboratives open source.
+Être Biomer c'est faire du Biomimétisme open source :
+* Les prototypes et réalisations sont libres et documentées
+* Les ressources informationnelles sont sur supports collaboratifs partagés
+* Les Biomers organisent des espaces et temps collaboratifs open source, càd ouvert à ceux qui veulent et de manière à donner l'opportunité à tous de participer
 
-Nous collaborons avec des écoles, universités, associations, entreprises petites et grandes, FabLabs, hackerspaces, tiers-lieux, collectivités publiques ou encore start-ups.
+Les Biomers se rencontrent en réel à chaque fois qu'un Biomer inspiré crée une opportunité... : 
+* [Barcamp](https://fr.wikipedia.org/wiki/Barcamp), master class, workshop, résidence de prototypage, causerie, apéro, festival, cours dans les écoles
+...en collaboration avec des :
+* écoles, universités, associations, entreprises, FabLabs, hackerspaces, Tiers-Lieux ou encore collectivités publiques.
+Ce sont des moments privilégiés pour intégrer de nouveaux Biomers et pour échanger avec d'autres communautés de pratiques.
+
+Les Biomers se recontrent aussi online via visioconférence, Facebook, Twitter, Slack, Trello, GitHub, pads... voir plus bas !
 
 # To be a Biomer !
 
-Après avoir lu la courte explication ci-dessus et le manifeste #WeAreBiomers, posez une question par n'importe moyen qui vous conviendra. Demandez à apprendre, à partager, à contribuer, à porter un projet, apporter vos projets.
-
-Qu'importe le temps que tu accordes dans la communauté :
+Qu'importe le temps que tu accordes :
 > tu FAIS = tu ES Biomer
 
-Qu'importe l'endroit où tu vis ou que tu sois nomade, ensemble nous pouvons faire microBiome ou Biome près de chez toi. Tu peux te connecter et rencontrer d'autres Biomers. 
-Nous pouvons installer ensemble un [HackLab](https://medium.com/we-are-biomers/le-soul%C3%A8vement-du-biomim%C3%A9tisme-2dad76c5171e#.94r15x6c2) presque n'imorte où.
+Qu'importe l'endroit où tu vis, ensemble nous pouvons faire microBiome ou Biome éphémère près de chez toi. Nous pouvons installer un [HackLab](https://medium.com/we-are-biomers/le-soul%C3%A8vement-du-biomim%C3%A9tisme-2dad76c5171e#.94r15x6c2) presque n'importe où !
 
-Intéresse-toi au fonctionnement de la communauté en réciprocité renforcée puis à sa gouvernance basée sur le design de consensus.
+Tu peux suivre les travaux de la communauté sur [son fonctionnement en réciprocité renforcée]() et [sa gouvernance basée sur le design de consensus)(https://paper.dropbox.com/doc/Consensus-exprience-w1mZt8YdVcz9RM24FBCo9).
 
 Par la pratique et le partage, par ta posture apprenante et contributrice tu deviendras autonome en ayant ou non ton propre projet.
 
-# Utiliser les outils de la communautés 
+# Utiliser les outils du Biome
 
 Pour découvrir, apprendre, contribuer, partager, collaborer, liker et plus si affinité... 
+Pose une question par l'outil de communication qui te conviendra le mieux, nous pourrons aiguiller tes premiers pas dans le HackLab du Biomimétisme !
+
+## Mail : lebiome.hacklab@prontonmail.com
 
 ## Groupe Facebook et Twitter
 
@@ -55,11 +61,18 @@ Tu peux aussi suivre [le Twitter du Biome](https://twitter.com/Le_biome) pour co
 
 [Le Trello](https://trello.com/b/wwHlwIzI/le-biome) permet de connaître les prochaines étapes des différents projets et événements. C'est l'occasion d'y ajouter des idées et de trouver des tâches auxquelles contribuer !
 
-## Les Hackpads
+## Les pads
 
-Ce sont documents éditables collaborativement pour la documentation de réunions, projets, événements, expériences... Ils sont regroupés dans [cette collection](https://hackpad.com/collection/w69y2zwP9It).
+Ce sont documents éditables collaborativement pour la documentation de réunions, projets, événements, expériences... Ils sont regroupés dans [cette collection](https://hackpad.com/collection/w69y2zwP9It). Les pads recommendés sont [framapad.org](http://framapad.org/) ou [hackmd.io](http://hackmd.io/).
 
 
 ## GitHub
 
-[Le GitHub du Biome](https://github.com/LeBiome) est la plateforme de documentation de tout... librairie, méthodes, prototypes, CR de réunions, etc. Mais c'est aussi le gestionnaire de version collaboratif du [site internet](https://lebiome.github.io/).  
+[Le GitHub du Biome](https://github.com/LeBiome) est la plateforme de documentation de tout... librairie, méthodes, prototypes, CR de réunions, code etc. Et c'est aussi le gestionnaire de version collaboratif du [site internet](https://lebiome.github.io/).
+
+## Outils libres
+
+[Les services libres de Framasoft](https://framasoft.org/#topPgCloud)
+
+
+
