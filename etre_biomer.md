@@ -38,7 +38,7 @@ Qu'importe le temps que tu accordes :
 
 Qu'importe l'endroit où tu vis, ensemble nous pouvons faire microBiome ou Biome éphémère près de chez toi. Nous pouvons installer un [HackLab](https://medium.com/we-are-biomers/le-soul%C3%A8vement-du-biomim%C3%A9tisme-2dad76c5171e#.94r15x6c2) presque n'importe où !
 
-Tu peux suivre les travaux de la communauté sur [son fonctionnement en réciprocité renforcée]() et [sa gouvernance basée sur le design de consensus)(https://paper.dropbox.com/doc/Consensus-exprience-w1mZt8YdVcz9RM24FBCo9).
+Tu peux suivre les travaux de la communauté sur [son fonctionnement en réciprocité renforcée](https://paper.dropbox.com/doc/Cadre-de-Rciprocit-Template-NOM-PRENOM-STRUCTURE-iNPABC2Whg7Ed4Zryodxq) et [sa gouvernance basée sur le design de consensus](https://paper.dropbox.com/doc/Consensus-exprience-w1mZt8YdVcz9RM24FBCo9).
 
 Par la pratique et le partage, par ta posture apprenante et contributrice tu deviendras autonome en ayant ou non ton propre projet.
 
