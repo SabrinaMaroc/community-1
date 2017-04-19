@@ -22,9 +22,11 @@ De 16 à 59 ans, les Biomers se retrouvent presque partout en France, aux Etats-
 * Les Biomers organisent des espaces et temps collaboratifs open source, càd ouvert à ceux qui veulent et de manière à donner l'opportunité à tous de participer
 
 Les Biomers se rencontrent en réel à chaque fois qu'un Biomer inspiré crée une opportunité... : 
-* [Barcamp](https://fr.wikipedia.org/wiki/Barcamp), master class, workshop, résidence de prototypage, causerie, apéro, festival, cours dans les écoles
+* [Barcamp](https://fr.wikipedia.org/wiki/Barcamp), master class, atelier, résidence de prototypage, causerie, apéro, festival
+
 ...en collaboration avec des :
 * écoles, universités, associations, entreprises, FabLabs, hackerspaces, Tiers-Lieux ou encore collectivités publiques.
+
 Ce sont des moments privilégiés pour intégrer de nouveaux Biomers et pour échanger avec d'autres communautés de pratiques.
 
 Les Biomers se recontrent aussi online via visioconférence, Facebook, Twitter, Slack, Trello, GitHub, pads... voir plus bas !
