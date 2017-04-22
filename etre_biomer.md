@@ -17,7 +17,7 @@ De 16 à 59 ans, les Biomers se retrouvent presque partout en France, aux Etats-
 [Le manifeste de communauté](https://lebiome.github.io/#LeBiome/manifesto) 
 
 Être Biomer c'est faire du Biomimétisme open source :
-* Les prototypes et réalisations sont libres et documentées
+* Les prototypes et réalisations sont libres et documentés
 * Les ressources informationnelles sont sur supports collaboratifs partagés
 * Les Biomers organisent des espaces et temps collaboratifs open source, càd ouvert à ceux qui veulent et de manière à donner l'opportunité à tous de participer
 
@@ -57,7 +57,7 @@ Tu peux aussi suivre [le Twitter du Biome](https://twitter.com/Le_biome) pour co
 
 ## Slack
 
-[Le Slack](https://wearebiomers.slack.com/) permet d'aller plus loin dans les échanges entre Biomers. On y retrouve des channels telles qu'art, archi_urbanisme, techno-digital mais encore appel-a-projet, event et autres channels dédiées à l'organisation de projet ou d'événement particuliers.
+[Le Slack](https://wearebiomers.slack.com/) permet d'aller plus loin dans les échanges entre Biomers. On y retrouve des channels telles qu'art, archi_urbanisme, techno-digital mais encore appel-a-projet, event et autres channels dédiées à l'organisation de projet ou d'événements particuliers.
 
 ## Trello
 
@@ -65,7 +65,7 @@ Tu peux aussi suivre [le Twitter du Biome](https://twitter.com/Le_biome) pour co
 
 ## Les pads
 
-Ce sont documents éditables collaborativement pour la documentation de réunions, projets, événements, expériences... Ils sont regroupés dans [cette collection](https://hackpad.com/collection/w69y2zwP9It). Les pads recommendés sont [framapad.org](http://framapad.org/) ou [hackmd.io](http://hackmd.io/).
+Ce sont documents éditables collaborativement pour la documentation de réunions, projets, événements, expériences... Ils sont regroupés dans [cette collection](https://hackpad.com/collection/w69y2zwP9It). Les pads recommandés sont [framapad.org](http://framapad.org/) ou [hackmd.io](http://hackmd.io/).
 
 
 ## GitHub
